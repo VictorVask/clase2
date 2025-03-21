@@ -1,0 +1,58 @@
+h1 {
+    /*font-size: 4em;*/
+    font-size: 60px;
+    font-size: 4em;
+    font-size: 3vmin;
+    border-style: ridge;
+    border-width: 15px;
+    border-color: blue;
+    border-radius: 12px;
+
+    margin-top: 100%;
+    margin-left: 15px;
+    margin-right: 50px;
+    margin-bottom: 25px;
+    /*font-size: 50%;*/
+}
+
+p {
+    font-size: 1.5vh;
+    background-image: url("../imagenes/1.jpg");
+    margin: 40px 75px;
+    padding: 25px 45px;
+}
+
+p.borde-uno {
+    border-style: solid;
+    border-width: 20;
+}
+
+p.borde-dos {
+    border: 7px solid green;
+}
+
+img.reducir {
+    width: 50%;
+}
+
+div {
+    background-image: url(../imagenes/TEXTURA\ 1.avif);
+    border-style: solid;
+    border-color: darkred;
+    border-radius: 25px;
+    margin: 65px;
+    padding: 75px;
+    line-height: 1.5;
+    height: 200px;
+}
+
+span {
+    background-image: url(../imagenes/TEXTURA\ 1.avif);
+    border-style: solid;
+    border-color: darkred;
+    border-radius: 25px;
+    margin: 65px;
+    padding: 75px;
+    line-height: 1.5;
+}
+
